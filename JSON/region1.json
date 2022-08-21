@@ -1,0 +1,40 @@
+{
+    "yyrr":20210,
+    "slider_part": [
+        {
+        "nae":"prayag",
+        "company": "xyz",   
+ "kothurd": [
+        {
+            "cala": "flood"          
+        },
+        {
+            "cala": "earthq"          
+        }
+        
+     ],
+ "pp1" :
+       [
+        {
+            "year": 2008,
+            "value": 200            
+        },
+        {
+            "year": 20112,
+            "value": 1000            
+        },
+        {
+            "year": 2015,
+            "value": 5000
+        },
+        {
+            "year": 2020,
+            "value": 4000
+        }
+    ]
+         
+}
+
+]
+
+}
