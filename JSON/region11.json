@@ -76,17 +76,17 @@
 "pp1radar":[
 
  { "type":"flood",
-  "values": 1000},
+  "values": 100},
 
 
  { "type":"earthq",
   "values": 20},
 
  { "type":"cyclone",
-  "values": 10},
+  "values": 0},
 
  { "type":"land slide",
-  "values": 25}
+  "values": 5}
 
 ]
          
