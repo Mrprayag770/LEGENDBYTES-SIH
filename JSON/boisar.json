@@ -20,7 +20,7 @@ pp1pro: [
   prop: 110},
 
 { year: 2012
-  prop: 80   },
+  prop: 80   }
 
 ],
 
@@ -40,7 +40,7 @@ pp1d:[
   deaths:90  },
 
  { year:2012
-  deaths: 199 },
+  deaths: 199 }
 
 ],
 pp1v:[
