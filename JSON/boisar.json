@@ -3,8 +3,16 @@
     "slider_part": [
         {
         "nae":"prayag",
-        "company": "xyz",  
-
+        "company": "xyz",   
+ "kothurd": [
+        {
+            "cala": "flood"          
+        },
+        {
+            "cala": "earthq"          
+        }
+        
+     ],
 pp1pro: [
 
 { year: 2000,
@@ -20,7 +28,7 @@ pp1pro: [
   prop: 110},
 
 { year: 2012
-  prop: 80   }
+  prop: 80   },
 
 ],
 
@@ -62,8 +70,9 @@ pp1v:[
   values:5200}
 
 ]
-          
-        }
-      
-      ]
+         
+}
+
+]
+
 }
