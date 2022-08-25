@@ -10,10 +10,9 @@
         },
         {
             "cala": "earthq"          
-        }
-        
+        }       
      ],
-pp1pro: [
+"pp1pro": [
 
 { year: 2000,
   prop: 70    },
@@ -32,7 +31,7 @@ pp1pro: [
 
 ],
 
-pp1d:[
+"pp1d":[
 
  { year:2000,
   deaths: 110},
@@ -52,7 +51,7 @@ pp1d:[
 ],
 
 
-pp1v:[
+"pp1v":[
 
  { year:2000,
   values:6067},
