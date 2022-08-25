@@ -1,0 +1,69 @@
+{
+    "yyrr":20210,
+    "slider_part": [
+        {
+        "nae":"prayag",
+        "company": "xyz",  
+
+pp1pro: [
+
+{ year: 2000,
+  prop: 120 },
+
+{ year: 2003
+  prop: 180},
+
+{ year: 2006
+  prop: 130},
+
+{ year: 2009
+  prop: 110},
+
+{ year: 2012
+  prop: 80   },
+
+],
+
+pp1d:[
+
+ { year:2000,
+  deaths: 90,
+
+
+ { year:2003
+  deaths: 101,
+
+ { year:2006
+  deaths: 112
+
+ { year:2009
+  deaths:90  },
+
+ { year:2012
+  deaths: 199 },
+
+],
+pp1v:[
+
+ { year:2000,
+  values:3005},
+
+
+ { year:2003
+  values:7780},
+
+ { year:2006
+  values:4000},
+
+ { year:2009
+  values:4500},
+
+ { year:2012
+  values:5200},
+
+]
+          
+        }
+      
+      ]
+}
