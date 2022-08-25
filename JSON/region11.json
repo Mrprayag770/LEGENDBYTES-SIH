@@ -70,6 +70,24 @@
  { "year":2012,
   "values":6780}
 
+],
+            
+            
+"pp1radar":[
+
+ { "type":"flood",
+  "values": 1000},
+
+
+ { "type":"earthq",
+  "values": 20},
+
+ { "type":"cyclone",
+  "values": 10},
+
+ { "type":"land slide",
+  "values": 25}
+
 ]
          
 }
