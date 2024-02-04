@@ -1,0 +1,96 @@
+{
+    "yyrr":20210,
+    "ppr": [
+        {
+        "name":"prayag",
+        "company": "xyz",   
+ "kothurd": [
+        {
+            "cala": "flood"          
+        },
+        {
+            "cala": "earthq"          
+        }
+        
+     ],
+ "pp1pro": [
+
+{ "year": 2012,
+  "prop": 60    },
+{ "year": 2014,
+  "prop": 80   },
+
+{ "year": 2016,
+  "prop": 30   },
+
+{ "year": 2018,
+  "prop": 160   },
+
+{ "year": 2020,
+  "prop": 150   }
+
+],
+
+"pp1d":[
+
+ { "year":1900,
+  "deaths": 10},
+
+ { "year":1903,
+  "deaths": 30},
+
+ { "year":1906,
+  "deaths": 65},
+
+ { "year":1909,
+  "deaths": 70  },
+
+ { "year":1912,
+  "deaths": 82}
+
+],
+
+
+"pp1v":[
+
+ { "year":1900,
+  "values":4067},
+
+
+ { "year": 1915,
+  "values":4780},
+
+ { "year":1916,
+  "values":3580},
+
+ { "year":1918,
+  "values":1090},
+
+ { "year":1920,
+  "values":2780}
+
+],
+            
+            
+"pp1radar":[
+
+ { "type":"flood",
+  "values": 10},
+
+
+ { "type":"earthq",
+  "values": 100},
+
+ { "type":"cyclone",
+  "values": 0},
+
+ { "type":"land slide",
+  "values": 5}
+
+]
+         
+}
+
+]
+
+}
